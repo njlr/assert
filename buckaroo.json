@@ -1,0 +1,6 @@
+{
+  "name": "boost-assert",
+  "dependencies": {
+    "boost-detail": "1.63.0"
+  }
+}
